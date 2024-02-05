@@ -10,6 +10,8 @@ public class Towers {
         range=r;
     }
 
+    // Getters and Setters
+
     int getBT() {
         return bulletTimer;
     }
